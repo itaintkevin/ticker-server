@@ -1,4 +1,4 @@
-# Ticker
+# ⏰ Ticker
 
 **Ticker is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) To-do List Web Application with User Authentication. It provides users with the ability to manage tasks, set their status, and assign priority levels. The project is built with Next.js, TypeScript, Tailwind CSS, and Redux, ensuring a seamless user experience.**
 
